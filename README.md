@@ -17,7 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 screenshots
 
 Splash Screen:
-![Screenshot_2023-06-08-17-23-28-79_8a5c7eca9537c5670b359ca54755a0bb](https://github.com/deep22798/todo_flutter_deep22798/assets/76737835/1660d5f9-8f73-4619-ae82-1cae7c45c8M2)
+![Screenshot_2023-06-08-17-23-28-79_8a5c7eca9537c5670b359ca54755a0bb](https://github.com/deep22798/todo_flutter_deep22798/assets/76737835/f526fd64-dc2b-40dd-ac07-e17f9d7a62de)
+
 
 main Screen:
 ![Screenshot_2023-06-08-17-25-51-07_8a5c7eca9537c5670b359ca54755a0bb](https://github.com/deep22798/todo_flutter_deep22798/assets/76737835/88d142f7-db2a-4449-84b9-2cad8f728592)
